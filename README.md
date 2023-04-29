@@ -1,0 +1,4 @@
+# toDoList
+A web application built using Node.js, Express, HTML, CSS, and EJS that allows users to create and manage their daily tasks.
+The project features custom JavaScript logic to handle user input and display results, and a clean and modern interface with responsive design for optimal viewing on desktop and mobile devices. The use of EJS templates enables the website to dynamically render HTML pages with data from the server. This also makes the website more maintainable as changes to the layout or content can be made more easily.
+Created as part of the Udemy course 'The Complete 2021 Web Development Bootcamp' by Angela Yu, this project is a great way to learn about building dynamic web applications using Node.js and EJS templates, and to understand the benefits of dynamic rendering in web development."
